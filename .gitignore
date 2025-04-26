@@ -176,9 +176,9 @@ cython_debug/
 # Ignorar todo el contenido dentro de las subcarpetas, pero no las carpetas mismas
 files/dataset/*
 files/documentacion/*
-files/EDA/*
+files/EDA/Visualizaciones/*
 
 # No ignorar los archivos .gitkeep
 !files/dataset/.gitkeep
 !files/documentacion/.gitkeep
-!files/EDA/.gitkeep
+!files/EDA/Visualizaciones/.gitkeep
