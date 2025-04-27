@@ -177,9 +177,9 @@ cython_debug/
 files/dataset/*
 files/documentacion/*
 files/EDA/Visualizaciones/*
-
+files/funciones/*
 
 # No ignorar los archivos .gitkeep
 !files/dataset/.gitkeep
 !files/documentacion/.gitkeep
-
+!files/funciones/.gitkeep
