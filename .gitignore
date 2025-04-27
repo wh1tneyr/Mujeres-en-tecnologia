@@ -177,9 +177,9 @@ cython_debug/
 files/dataset/*
 files/documentacion/*
 files/EDA/Visualizaciones/*
-Analisis_y_Reporte/Visualizaciones/*
+
 
 # No ignorar los archivos .gitkeep
 !files/dataset/.gitkeep
 !files/documentacion/.gitkeep
-!Analisis_y_Reporte/Visualizaciones/.gitkeep
+
