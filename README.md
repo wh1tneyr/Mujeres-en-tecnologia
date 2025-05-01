@@ -16,10 +16,10 @@ El objetivo es visibilizar las brechas de género y proponer acciones que promue
 
 ### 🧰 Herramientas utilizadas
 
-Python
-Pandas – Manipulación y limpieza de datos
-NumPy – Operaciones numéricas
-Matplotlib – Visualización de datos
+- Python
+- Pandas – Manipulación y limpieza de datos
+- NumPy – Operaciones numéricas
+- Matplotlib – Visualización de datos
 
 ### ▶️ Cómo ejecutar el proyecto
 
