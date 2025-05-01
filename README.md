@@ -25,8 +25,8 @@ Matplotlib – Visualización de datos
 
 1. Clona este repositorio:
 
-```git clone https://github.com/tu_usuario/Mujeres-en-tecnologia.git
-cd Mujeres-en-tecnologia```
+```git clone https://github.com/tu_usuario/Mujeres-en-tecnologia.git```
+```cd Mujeres-en-tecnologia```
 
 2. Instala las dependencias desde el archivo requirements.txt:
 ```pip install -r requirements.txt```
