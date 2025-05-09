@@ -36,3 +36,15 @@ El objetivo es visibilizar las brechas de género y proponer acciones que promue
 3. Abre el Jupyter Notebook:
 
 ```jupyter notebook analisis_mujeres_tecnologia.ipynb```
+
+### Abre el archivo dentro de la carpeta Analisis_y_Reporte para explorar el análisis
+🔍 Analisis-Exploratorio-Mujeres-en-Tecnologia.ipynb
+
+### 📬 Contacto
+
+Whitney Rios
+
+📧 rioswhit@gmail.com
+
+🔗 GitHub: wh1tneyr
+
